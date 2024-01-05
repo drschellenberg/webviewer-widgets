@@ -64,7 +64,7 @@ Included are the basic settings to spin up in docker. ```APP_PORT``` in the .env
 
 
 ### Help:
-if there is anyway to improve this please don't hessite 
+This is our first shot at this.if there is any way to improve this, please don't hessite 
 
 
 
