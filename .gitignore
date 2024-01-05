@@ -1,0 +1,17 @@
+.env
+.env.backup
+
+/config
+/docker
+
+/.vscode
+/.vagrant
+yarn-error.log
+composer.lock
+composer.phar
+FETCH_HEAD
+*.DS_Store
+.nova*
+nohup.out
+
+data.json
