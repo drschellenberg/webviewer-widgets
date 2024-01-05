@@ -1,7 +1,6 @@
 .env
 .env.backup
 
-/config
 
 /.vscode
 /.vagrant
