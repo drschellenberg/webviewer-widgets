@@ -52,7 +52,7 @@ Each WV should have its own corresponding script that will collect all the requi
 
 **performscript**  will grab the HTML, set the webviewer and then send the payload via ```Perform JavaScript in Web Viewer```. But the process hangs in some cases (yet to be solved). *[could be when HTML is a reactive framework]*
 
-![](md_assets/hang.png)
+<img src="md_assets/hang.png" alt="drawing" width="300"/>
 
 
 **merge**; as an alternative to avoid the said issue, grabs the HTML and substitute the string ```"'*|DATA|*'"``` with the $payload. 
