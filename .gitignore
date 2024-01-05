@@ -2,7 +2,6 @@
 .env.backup
 
 /config
-/docker
 
 /.vscode
 /.vagrant
@@ -14,4 +13,3 @@ FETCH_HEAD
 .nova*
 nohup.out
 
-data.json
